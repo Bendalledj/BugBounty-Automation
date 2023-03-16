@@ -13,7 +13,7 @@ chmod +x install.sh
 
 
 ```
-Tools Sucessfully installed 
+
 
 
 Start Recon 
